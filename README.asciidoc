@@ -2,8 +2,14 @@ A simple Java EE 7 Sample
 =========================
 
 This is a trivial Java EE 7 sample.
+<<<<<<< HEAD
 modif hotfix
-modif2 hotfix
+modif2 hotfix2
+=======
+modif.
+modif2.
+
+>>>>>>> develop
 . Download WildFly 8.2 from
   http://download.jboss.org/wildfly/8.2.0.Final/wildfly-8.2.0.Final.zip
   and unzip.
